@@ -1,3 +1,5 @@
-# Creative 4 - Node.js
+# Spot the Puppy
 
-By Clark Brown for BYU CS 260 Creative Project #4
+Game in Javascript to Spot the Puppy. Originally for BYU CS 260 Creative Project #4.
+
+By Clark Brown
